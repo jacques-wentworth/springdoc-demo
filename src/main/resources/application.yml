@@ -1,0 +1,7 @@
+info:
+  name: "@project.name@"
+  version: '@project.version@'
+
+server:
+  servlet:
+    context-path: /springdoc-demo
